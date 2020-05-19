@@ -3,7 +3,7 @@
 **Group Members** - Abinaya Ramachandran , Atharva Pashankar ,Dikshant Pravin Jain,   Krishna Bhanderi, Nischitha CN,   Pooja Shivaswamy, Zeel Patel.<br>
 Application URL -  https://samplevision-275523.uc.r.appspot.com/
 
-**Description** : We have created a application using NodeJS and google vision API, which uploads an image and detecs its features 
+**Description** : We have created a application using NodeJS and google vision API, which uploads an image and detects its features 
 using google client library. 
 After uploading the image, Google Cloud Vision API is invoked for analysing the image to detect labels. And finally the results are returned in well formatted way with detected labels of the image.
 
